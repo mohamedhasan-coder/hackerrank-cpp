@@ -1,5 +1,3 @@
-# `s
-
 ## 📝 Objective
 
 In this challenge, we practice reading input from `stdin` and printing output to `stdout`.
