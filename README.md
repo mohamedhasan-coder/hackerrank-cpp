@@ -48,7 +48,7 @@ int main() {
 
     // Your solution here
 
-    return 0;
+    return 0; 
 }
 ```
 
