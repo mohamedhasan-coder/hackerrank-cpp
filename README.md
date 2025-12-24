@@ -1,7 +1,7 @@
 # 🧠 HackerRank C++ Solutions
 
 A collection of **C++ solutions** for various **HackerRank** problems — written for clarity, efficiency, and learning.  
-Each solution demonstrates good coding style, optimal algorithms, and standard C++17 features.
+Each solution demonstrates good coding style, optimal algorithms, and standard C++17, C++21 features.
 
 ---
 
