@@ -56,7 +56,7 @@ int main() {
 
 ---
 
-## ⚙️ Compilation & Execution
+## Compilation & Execution
 
 Compile and run using:
 
