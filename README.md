@@ -115,7 +115,7 @@ This helps when searching through many problems later.
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are always welcome!  
 
