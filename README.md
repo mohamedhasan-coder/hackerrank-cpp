@@ -5,7 +5,7 @@ Each solution demonstrates good coding style, optimal algorithms, and standard C
 
 ---
 
-## 🚀 Overview
+## Overview
 
 This repository aims to:
 
