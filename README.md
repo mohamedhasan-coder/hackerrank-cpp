@@ -52,7 +52,7 @@ int main() {
 }
 ```
 
-✅ **Tip:** Always include problem name, link, and complexity — this makes your repo self-documented and easy to navigate.
+**Tip:** Always include problem name, link, and complexity — this makes your repo self-documented and easy to navigate.
 
 ---
 
