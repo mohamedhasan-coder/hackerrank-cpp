@@ -15,7 +15,7 @@ This repository aims to:
 
 ---
 
-## 💡 Features
+## Features
 
 - All solutions written in **C++17** (compatible with most online judges).  
 - Includes **problem link**, **approach summary**, and **complexity analysis** in each file.  
