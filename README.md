@@ -24,7 +24,7 @@ This repository aims to:
 
 ---
 
-## 🧩 Solution Format
+##  Solution Format
 
 Each `.cpp` file follows this standard format:
 
